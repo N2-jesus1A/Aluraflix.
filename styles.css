@@ -1,6 +1,6 @@
 body {
-  color: rgb(245, 41, 5);
-  background: rgb(248, 13, 5);
+  color: rgb(250, 8, 4);
+  background: rgb(250, 8, 4);
   margin: 0px;
   font-family: "Chakra Petch", sans-serif;
 }
@@ -9,7 +9,7 @@ header {
   border-bottom: solid 2px rgb(42, 122, 228);
   padding: 20px;
   font-size: 32px;
-  color: rgb(241, 38, 2);
+  color: rgb(250, 8, 4);
 }
 
 section {
